@@ -44,7 +44,7 @@ function draw() {
 
 
 
-    if(block2.isTouching(ball2)){
+    if(block2.isTouching(ball)){
         ball.shapeColor = "orange";
         //write code to set velocityX and velocityY of ball as 0
 
